@@ -1,2 +1,2 @@
 # APP_MOVIES
-movies app susingg react native
+movies app using react native and method scrum
